@@ -98,7 +98,7 @@
                             <td style="color: var(--color-accent); font-weight: 700;">休診</td>
                         </tr>
                     </table>
-                    <p class="hours-note">※祝日の診療についてはお問い合わせください</p>
+                    <p class="hours-note">※祝日の診療についてはお問い合わせください.</p>
                 </div>
             </div>
         </section>
